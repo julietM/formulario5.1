@@ -1,0 +1,18 @@
+body{
+    background-color: #424949;
+    font-family:  'Fira Sans', sans-serif;
+    color: black;
+    padding-top: 5px;
+    
+   
+}
+input{ background-color: gainsboro;}
+select{background-color: gainsboro;}
+.tex{ padding-left: 80px;      
+      width: 520px;
+      height: 449px;
+      background: #99A3A4 ;
+}
+br{ color:black
+
+}
